@@ -1,0 +1,2 @@
+mapactivity-bare-minimum-example
+================================
